@@ -1,0 +1,7 @@
+python3 size_process.py 
+LargestX = 2250  largestY = 3374 SmallestX = 270 SmallestY = 288
+Large X = /home/groups/comp3710/ISIC2018/ISIC2018_Task1-2_Training_Input_x2/ISIC_0014923.jpg 
+large Y = /home/groups/comp3710/ISIC2018/ISIC2018_Task1-2_Training_Input_x2/ISIC_0000160.jpg 
+Small X = /home/groups/comp3710/ISIC2018/ISIC2018_Task1-2_Training_Input_x2/ISIC_0014923.jpg 
+Small Y = /home/groups/comp3710/ISIC2018/ISIC2018_Task1-2_Training_Input_x2/ISIC_0000253.jpg
+
